@@ -1,0 +1,13 @@
+.image-items {
+  list-style-type: none;
+  margin: 4px;
+}
+.btn-element {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+.btn-images {
+  width: 150px;
+}
